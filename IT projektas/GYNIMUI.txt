@@ -1,0 +1,5 @@
+adminas matytu visus gedimus ir galėtų keisti su vienu mygtuku.
+Darbuotojas negaletu registruoti gedimo.
+kad registruojant gedima Vardas, Pavardė, El paštas jau būtų įvesti automatiškai.
+kad turimus gedimus ziurint vienu mygtuku keistusi busenos(trigubas mygtukas).
+3reg vartotojų tipai kurie turėtų po viena spec funkcija(user registruot), darbuotojas(matyt jam priskirtus), admin(kiti)
